@@ -4,7 +4,7 @@
 
 ## 용어
 
-* [Git 용어](./Git%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.txt)
+* [Git 용어](./Git%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
 
 ## 실습
 
