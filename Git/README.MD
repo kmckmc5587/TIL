@@ -1,6 +1,10 @@
 # ◻️ Git
 
 
+## 한 눈에 알아보기
+
+* [Git 기본](./Git_%EA%B8%B0%EB%B3%B8.png)
+* [Git Branch](./Git%20Branch.png)
 
 ## 용어
 
