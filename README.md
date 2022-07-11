@@ -6,3 +6,4 @@
 
 ◻️ [Git](./Git/)
 
+◻️ [Python](./Python/)
