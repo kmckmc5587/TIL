@@ -7,7 +7,8 @@
 
 ## 내용
 
-* [Python 내용](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_01.pdf)
+* [Python 1](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_01.pdf)
+* [Python 2](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_02.pdf)
 
 
 ## practice
