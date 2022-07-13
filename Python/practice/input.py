@@ -6,7 +6,7 @@ print(1, 2, 3, 4, 5, 6, 7, 8)
 
 #정해지지 않은 개수의 인자
 def my_add(*numbers):
-    # 내부적으로 numers가 tuple
+    # 내부적으로 numbers가 tuple
     return numbers
 
 result = my_add(1, 2, 3)
