@@ -32,5 +32,5 @@ for word in my_dict:
     my_dict_3 = my_dict_3['a'] + 1
     print(my_dict_3)
 
-    my_list = [0, 1, 2]
+    my_list = [10, 11 ,12]
     my_list[0] = my_list[0] + 1
