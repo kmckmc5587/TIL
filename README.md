@@ -8,4 +8,4 @@
 ◻️ [Git](./Git/)
 
 
-◻️ [Python](./Python/)
+◻️ [Python 기초](./Python%20%EA%B8%B0%EC%B4%88/)
