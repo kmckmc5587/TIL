@@ -24,13 +24,19 @@ my_dict = {'apple' : '사과', 'banana' : '바나나'}
 for word in my_dict:
     print(my_dict[word])
 
-    my_dict_2 = {}
-    my_dict_2['a'] = 'airplane'
+my_dict_2 = {}
+my_dict_2['a'] = 'airplane'
 
-    my_dict_3 = {'a': 0}
-    my_dict_3['a'] += 1
-    my_dict_3 = my_dict_3['a'] + 1
-    print(my_dict_3)
+my_dict_3 = {'a': 0}
+my_dict_3['a'] += 1
+my_dict_3 = my_dict_3['a'] + 1
+print(my_dict_3)
 
-    my_list = [10, 11 ,12]
-    my_list[0] = my_list[0] + 1
+my_list = [10, 11 ,12]
+my_list[0] = my_list[0] + 1
+
+my_dict = {'apple' : '사과', 'banana' : '바나나'}
+print(my_dict['apple']) # 사과!
+
+for word in my_dict: # 'apple', 'banana'
+     print(my_dict[word])
