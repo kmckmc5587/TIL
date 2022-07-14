@@ -2,10 +2,10 @@
 
 ## 목차
 
-◻️ [markdown](./markdown/)
+◻️[markdown](./markdown/)
 
 
-◻️ [Git](./Git/)
+◻️[Git](./Git/)
 
 
-◻️ [Python 기초](./Python_%EA%B8%B0%EC%B4%88/)
+◻️[Python 기초](./Python_%EA%B8%B0%EC%B4%88/)
