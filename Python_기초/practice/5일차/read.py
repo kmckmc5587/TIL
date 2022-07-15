@@ -10,7 +10,7 @@ with open('students.txt', 'r', encoding = 'utf-8') as f:
     for name in names:
         # name : 첫 번째 시행 - 김
         # 언제? 김씨?
-        # if name.startswitch('김):
+        # if name.startswith('김'):
         if name[0] == '김':
             cnt += 1
     print(cnt)
