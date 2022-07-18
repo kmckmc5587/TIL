@@ -7,5 +7,5 @@ for char in word:
 
 print(result)
 # 키-값의 추가
-#result['a'] = 0
+# result['a'] = 0
 # print(result)
