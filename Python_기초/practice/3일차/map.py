@@ -25,4 +25,4 @@ new_numbers_2 = map(int, numbers)
 print(new_numbers_2, type(new_numbers_2)) # <map object at 0x000001F8FF856FA0> : 이미 함수가 모두 적용된 
 print(list(new_numbers))
 # 리스트로 형변환해서보면 바뀌어있다~!
-# 보기 위햇 바꾼 것일 뿐! 반드시 list로 바꿔야하는 것은 아닙니다 :)
+# 보기 위해 바꾼 것일 뿐! 반드시 list로 바꿔야하는 것은 아닙니다 :)
