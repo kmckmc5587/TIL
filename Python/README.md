@@ -19,7 +19,7 @@
 * [Python practice](./practice/)
 
 
-## Python 실습문제
+## 실습문제
 
 * [Python 실습문제](./Python%20%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/)
 
