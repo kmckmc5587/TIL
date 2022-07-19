@@ -12,6 +12,7 @@
 * [Python 3](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_03.pdf)
 * [Python 4](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_04.pdf)
 * [Python 5](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_05.pdf)
+* [Python 6](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_06.pdf)
 
 
 ## practice
