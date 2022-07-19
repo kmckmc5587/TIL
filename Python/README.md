@@ -21,7 +21,8 @@
 
 ## 실습문제
 
-* [Python 실습문제](./Python%20%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C/)
+* [Python 실습 문제](./Python_%EC%8B%A4%EC%8A%B5_%EB%AC%B8%EC%A0%9C/)
+* [SWEA 실습 문제](./SWEA_%EC%8B%A4%EC%8A%B5_%EB%AC%B8%EC%A0%9C/)
 
 
 ## codeup
