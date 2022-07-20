@@ -1,4 +1,4 @@
-# ◻️ Python 기초
+# ◻️ Python
 
 ## 기본
 
