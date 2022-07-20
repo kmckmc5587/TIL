@@ -26,4 +26,3 @@ for i in range(5):
 # result = random.sample(numbers, 6)
 # result.sort() 
 # print(result)
-
