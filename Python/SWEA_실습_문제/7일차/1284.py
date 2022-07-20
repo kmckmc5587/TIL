@@ -1,6 +1,6 @@
-import sys
+# import sys
 
-sys.stdin = open("1284_input.txt", "r")
+# sys.stdin = open("1284_input.txt", "r")
 
 T = int(input())
 for i in range(1, T + 1):
