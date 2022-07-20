@@ -1,6 +1,8 @@
 import random
 
 class Lotto: 
+    name = '로또추첨기'
+
     def generate_lotto(self):
         self.numbers = sorted(random.sample(range(1, 46), 6))
 
