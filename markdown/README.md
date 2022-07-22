@@ -8,4 +8,4 @@
 
 ## 실습
 
-- [markdown 실습](./markdown%20%EC%8B%A4%EC%8A%B5.md) 
+* [markdown 실습](./markdown%20%EC%8B%A4%EC%8A%B5.md) 
