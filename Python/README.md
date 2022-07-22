@@ -16,6 +16,10 @@
 * [Python 7](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_07.pdf)
 * [Python 8](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_08.pdf)
 
+## 용어
+
+* [Python 용어](./Python%20%EC%9A%A9%EC%96%B4.md)
+
 
 ## practice
 
