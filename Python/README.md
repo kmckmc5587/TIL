@@ -34,4 +34,9 @@
 
 ## codeup
 
-- [Python codeup](./codeup/)
+* [Python codeup](./codeup/)
+
+
+## 프로젝트_02
+
+* [프로젝트_02](./%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_02/)
