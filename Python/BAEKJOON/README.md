@@ -1,3 +1,3 @@
 # Python BAEKJOON
 
-## 🔘 [input, print](./input%2C%20print/)
+## 🔘 [input_print](./input_print/)
