@@ -1,3 +1,3 @@
 # Python BAEKJOON
 
-## 🔘 [input_print](./input_print/)
+## 🔘 [1일차](./1%EC%9D%BC%EC%B0%A8/)
