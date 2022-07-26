@@ -17,6 +17,9 @@
 * [Python 8](./%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC_08.pdf)
 * [자료구조 1](./01_algorithm_intro_v1.2.pdf)
 * [자료구조 1](./02_basic_IO_v1.2.pdf)
+* [자료구조 2](./03_time_complexity_v1.2%20(1).pdf)
+* [자료구조 2](./04_list_v1.0%20(1).pdf)
+
 
 ## 용어
 
