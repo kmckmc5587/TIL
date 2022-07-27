@@ -19,6 +19,7 @@
 * [자료구조 1](./02_basic_IO_v1.2.pdf)
 * [자료구조 2](./03_time_complexity_v1.2%20(1).pdf)
 * [자료구조 2](./04_list_v1.0%20(1).pdf)
+* [자료구조 3](./%EA%B5%90%EC%9E%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_03.pdf)
 
 
 ## 용어
