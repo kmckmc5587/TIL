@@ -1,9 +1,8 @@
-N = list(map(int, input().split()))
-result = [1, 2, 3, 4, 5, 6, 7, 8]
-
-if N == result:
+a = list(map(int, input().split()))
+ 
+if a == sorted(a):
     print('ascending')
-elif N == result[::-1]:
-    print('dsecending')
+elif a == sorted(a, reverse = True):
+    print('descending')
 else:
     print('mixed')
