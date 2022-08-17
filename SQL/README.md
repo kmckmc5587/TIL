@@ -1,4 +1,4 @@
-# ◻️ Python
+# ◻️ SQL
 
 
 ## practice
