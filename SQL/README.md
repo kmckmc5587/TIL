@@ -1,10 +1,15 @@
 # ◻️ SQL
 
+## 내용
+
+* [Database 1](./%EA%B5%90%EC%9E%AC_DB_1.pdf)
+
 
 ## practice
 
 * [1일차](./practice/1%EC%9D%BC%EC%B0%A8/)
 * [2일차](./practice/2%EC%9D%BC%EC%B0%A8/)
+
 
 ## 실습
 
