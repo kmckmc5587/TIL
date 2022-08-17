@@ -3,6 +3,7 @@
 ## 내용
 
 * [Database 1](./%EA%B5%90%EC%9E%AC_DB_1.pdf)
+* [Database 2](./DB_02.pdf)
 
 
 ## practice
