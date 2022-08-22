@@ -6,6 +6,7 @@
 * [Database 2](./DB_02.pdf)
 * [Database 3](./DB_03.pdf)
 * [Database 4](./DB_04.pdf)
+* [Database 5](./DB_05.pdf)
 
 
 ## practice
@@ -14,6 +15,7 @@
 * [2일차](./practice/2%EC%9D%BC%EC%B0%A8/)
 * [3일차](./practice/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./practice/4%EC%9D%BC%EC%B0%A8/)
+* [5일차](./practice/5%EC%9D%BC%EC%B0%A8/)
 
 
 ## 실습
@@ -22,3 +24,4 @@
 * [2일차](./%EC%8B%A4%EC%8A%B5/2%EC%9D%BC%EC%B0%A8/)
 * [3일차](./%EC%8B%A4%EC%8A%B5/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./%EC%8B%A4%EC%8A%B5/4%EC%9D%BC%EC%B0%A8/)
+* [5일차](./%EC%8B%A4%EC%8A%B5/5%EC%9D%BC%EC%B0%A8/)
