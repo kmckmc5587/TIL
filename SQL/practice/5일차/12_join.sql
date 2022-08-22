@@ -66,6 +66,13 @@ WHERE articles.user_id IS NOT NULL;
 SELECT * 
 FROM articles FULL OUTER JOIN users
     ON articles.user_id = users.id;
+-- id  title  content  user_id  id  name  role_id
+-- --  -----  -------  -------  --  ----  -------
+-- 1   1번글    111      1        1   관리자   1
+-- 2   2번글    222      2        2   김철수   2
+-- 3   3번글    333      1        1   관리자   1
+-- 4   4번글    444
+--                              3   이영희   2
 
 -- CROSS JOIN
 SELECT * 
