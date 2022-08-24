@@ -1,8 +1,8 @@
-# ◻️ SQL
+# ◻️ Database
 
 ## 내용
 
-* [Database 1](./%EA%B5%90%EC%9E%AC_DB_1.pdf)
+* [Database 1](./DB_01.pdf)
 * [Database 2](./DB_02.pdf)
 * [Database 3](./DB_03.pdf)
 * [Database 4](./DB_04.pdf)
