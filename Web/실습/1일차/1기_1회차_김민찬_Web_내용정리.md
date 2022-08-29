@@ -54,10 +54,22 @@
 * <a></a> : href 속성을 활용하여 다른 URL로 연결하는 하이퍼링크 생성
 * <b></b> / <strong></strong> : 굵은 글씨
 * <i></i> / <em></em> : 기울임 글씨
+* &nbsp; : 띄어쓰기
 * <br> : 텍스트 내에 줄 바꿈 생성
 * <img> : 이미지 표현
+* <img alt> : 이미지를 보여줄 수 없을 때 해당 이미지를 대체할 텍스트
 * <span></span> : 의미 없는 인라인 컨테이너
 * <hr> : 수평선
+
+
+## 그룹 컨텐츠
+
+* <p></p> : 하나의 문단(paragraph)
+* <ol></ol> : 순서가 있는 리스트(ordered)
+* <ul></ul> : 순서가 없는 리스트(unorderd)
+* <pre></pre> : HTML에 작성한 내용을 그대로 표현 -> 보통 고정폭 글꼴이 사용되고 공백문자를 유지
+* <blockquote></blockquote> : 텍스트가 긴 인용문 -> 주로 들여쓰기를 한 것으로 표현
+* <div></div> : 의미 없는 블록 레벨 컨테이너
 
 
 # CSS(Cascading Style Sheets)
