@@ -14,4 +14,7 @@
 ◻️ [Algorithm](./Algorithm/)
 
 
-◻️ [SQL](./SQL/)
+◻️ [Database](./Database/)
+
+
+◻️ [Web](./Web/)
