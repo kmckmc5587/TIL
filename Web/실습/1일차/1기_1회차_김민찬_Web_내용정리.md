@@ -31,6 +31,7 @@
 * class : 공백으로 구분된 해당 요소의 클래스 목록
 * data-* : 페이지에 개인 사용자 정의 데이터를 저장하기 위해 사용
 
+
 ## HTML 코드 예시
 
 <!DOCTYPE html>
@@ -72,6 +73,7 @@
 * <div></div> : 의미 없는 블록 레벨 컨테이너
 
 
+
 # CSS(Cascading Style Sheets)
 
 스타일을 지정하기 위한 언어
@@ -88,6 +90,7 @@ h1 {
 * color: blue : 선언(Declaration)
 * font-size : 속성(Property)
 * 15px : 값(Value)
+
 
 ## CSS 특성
 
