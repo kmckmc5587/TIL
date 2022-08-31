@@ -1,0 +1,17 @@
+/* 아래에 CSS를 작성해주세요. */
+.chair {
+    padding: 0;
+    width: 300px;
+    line-height: 50%;
+  }
+  .chair img{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 300px;
+    height: 300px;
+  }
+  .chair p{
+    margin-left: 10px;
+    font-size: 14px;
+  }
