@@ -14,6 +14,7 @@
 * [2일차](./practice/2%EC%9D%BC%EC%B0%A8/)
 * [3일차](./practice/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./practice/4%EC%9D%BC%EC%B0%A8/)
+* [5일차](./practice/5%EC%9D%BC%EC%B0%A8/)
 
 
 ## 실습
