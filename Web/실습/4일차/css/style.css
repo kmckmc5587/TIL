@@ -47,6 +47,14 @@ height: 700px;
 background-image: url("../assets/apparel.jpeg");
 background-repeat: no-repeat;
 background-size: cover;
+align-items: center;
+justify-content: space-around;
+}
+
+.banner-title {
+  color: black;
+  font-size: 5rem;
+  font-weight: bolder;
 }
 
 .img {
@@ -166,4 +174,8 @@ background-size: cover;
   height: 200px;
   border: 1px solid black;
   margin: 1rem;
+}
+
+.icon-location {
+  display: flex;
 }
