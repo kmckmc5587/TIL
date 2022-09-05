@@ -6,6 +6,7 @@
 * [Web 2](./web_02.pdf)
 * [Web 3](./web_03.pdf)
 * [Web 4](./web_04.pdf)
+* [Web 5](./web_05.pdf)
 
 
 ## practice
@@ -15,6 +16,7 @@
 * [3일차](./practice/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./practice/4%EC%9D%BC%EC%B0%A8/)
 * [5일차](./practice/5%EC%9D%BC%EC%B0%A8/)
+* [6일차](./practice/6%EC%9D%BC%EC%B0%A8/)
 
 
 ## 실습
@@ -24,3 +26,4 @@
 * [3일차](./%EC%8B%A4%EC%8A%B5/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./%EC%8B%A4%EC%8A%B5/4%EC%9D%BC%EC%B0%A8/)
 * [5일차](./%EC%8B%A4%EC%8A%B5/5%EC%9D%BC%EC%B0%A8/)
+* [6일차](./%EC%8B%A4%EC%8A%B5/6%EC%9D%BC%EC%B0%A8/)
