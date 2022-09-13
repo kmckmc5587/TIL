@@ -1,0 +1,41 @@
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    left: 0;
+    z-index: 15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: carousel-control-width;
+    margin-left: carousel-control-width;
+    list-style: none;
+  }
+
+  .main {
+    margin-top: 72px;
+    margin-bottom: 100px;
+  }
+  
+  h1 {
+    padding-top: 40px; padding-bottom:40px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .list-group-item {
+    text-align: center;
+  }
+  
+  .posting-title {
+    float:left;
+    font-size: 17px;
+  }
+  
+  .movie-title, .register-time {
+    float: left;
+  }
+  
+  .writer {
+    float: right;
+  }
