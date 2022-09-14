@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>home</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+<body>
+  <!-- nav-bar -->
+  <!-- nav-bar -->
+  <!-- nav-bar -->
+  <nav class="sticky-top navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="container-fluid">
+        <!-- logo -->
+        <a class="navbar-brand" href="index.html">
+          <img class="home-logo-img" src="./images/logo.png" alt="home-logo-img" width="80" height="60">
+        </a>
+        <!-- toggle btn -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- nav list -->
+        <div class="collapse navbar-collapse justify-content-start" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" style="color: white;" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white;" href="03_community.html">Community</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white;" href="#loginModal" data-bs-toggle="modal">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+  </nav>
+  <!-- modal -->
+  <!-- modal -->
+  <!-- modal -->
+  <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title fw-bold" id="loginModalLabel">Modal title</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+          <div class="modal-body">
+            <form class="row g-3 d-flex flex-column">
+              <div>
+                <label for="inputUserName" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="inputUserName" placeholder="">
+              </div>
+              <div class="mb-2">
+                <label for="inputPassword" class="form-label">Password</label>
+                <input type="password" class="form-control" id="inputPassword" placeholder="">
+              </div>
+              <div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="gridCheck">
+                  <label class="form-check-label" for="gridCheck">
+                      Check me out
+                  </label>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Submit</button>
+          </div>
+      </div>
+    </div>
+  </div>
+  <!-- carousel -->
+  <!-- carousel -->
+  <!-- carousel -->
+  <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active" data-bs-interval="10000">
+        <img src="./images/movie 1.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="2000">
+        <img src="./images/movie 2.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="./images/movie 3.jpg" class="d-block w-100" alt="...">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <!-- cards -->
+  <!-- cards -->
+  <!-- cards -->
+  <h2 class="text-center fw-bold m-5">Boxoffice</h2>
+  <div class="container">
+    <section class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-2">
+      <div class="col">
+        <article class="card m-2">
+          <img src="./images/movie 1.jpg" alt="Iron Man" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Avengers: end game</h5>
+            <p class="card-text">인피니티 워 이후 절반만 살아남은 지구 마지막 희망이 된 어벤져스 먼저 떠난 그들을 위해 모든 것을 걸었다! 위대한 어벤져스 운명을 바꿀 최후의 전쟁이 펼쳐진다!</p>
+            <a href="https://pedia.watcha.com/ko-KR/contents/mdBzNnP" class="stretched-link"></a>
+          </div>
+        </article>
+      </div>
+      <div class="col">
+        <article class="card m-2">
+          <img src="./images/movie 2.jpg" alt="Top Gun" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Top Gun: Maverick</h5>
+            <p class="card-text">최고의 파일럿이자 전설적인 인물 매버릭(톰 크루즈)은 자신이 졸업한 훈련학교 교관으로 발탁된다. 그의 명성을 모르던 팀원들은 매버릭의 지시를 무시하지만 실전을 방불케 하는 상공 훈련에서 눈으로 봐도 믿기 힘든 전설적인 조종 실력에 모두가 압도된다. 매버릭의 지휘아래 견고한 팀워크를 쌓아가던 팀원들에게 국경을 뛰어넘는 위험한 임무가 주어지자 매버릭은 자신이 가르친 동료들과 함께 마지막이 될 지 모를 하늘 위 비행에 나서는데…</p>
+            <a href="https://pedia.watcha.com/ko-KR/contents/mdE1GGd" class="stretched-link"></a>
+          </div>
+        </article>
+      </div>
+      <div class="col">
+        <article class="card m-2">
+          <img src="./images/movie 3.jpg" alt="Spider-man" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Spider-Man: No way Home</h5>
+            <p class="card-text">‘미스테리오’의 계략으로 세상에 정체가 탄로난 스파이더맨 ‘피터 파커’는 하루 아침에 평범한 일상을 잃게 된다. 문제를 해결하기 위해 ‘닥터 스트레인지’를 찾아가 도움을 청하지만 뜻하지 않게 멀티버스가 열리면서 각기 다른 차원의 불청객들이 나타난다. ‘닥터 옥토퍼스’를 비롯해 스파이더맨에게 깊은 원한을 가진 숙적들의 강력한 공격에 ‘피터 파커’는 사상 최악의 위기를 맞게 되는데…</p>
+            <a href="https://pedia.watcha.com/ko-KR/contents/mOVP23Z" class="stretched-link"></a>
+          </div>
+        </article>
+      </div>
+    </section>
+  </div>
+  <!-- footer -->
+  <!-- footer -->
+  <!-- footer -->
+  <footer class="py-3 bg-white">
+      <div class="container"><p class="m-0 text-center text-black">Copyright &copy; Your Website 2022</p></div>
+  </footer>
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+</body>
+</html>
