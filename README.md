@@ -18,3 +18,6 @@
 
 
 ◻️ [Web](./Web/)
+
+
+◻️ [JavaScript](./JavaScript/)
