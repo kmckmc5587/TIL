@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>04_modal.html</title>
+  <style>
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      background-color: gray;
+      width: 50%;
+      height: 100vh;
+      color: white;
+      justify-content: center;
+      align-items: center;
+      display: none;
+    }
+
+    .active {
+      display: flex;
+    }
+  </style>
+
+</head>
+<body>
+  <button id="modal-btn">modal button</button>
+  <div id="modal-content" class="modal-overlay">modal
+    <button id="modal-cancel-btn">cancel</button>
+  </div>
+  <script>
+    const modalToggle = function() {
+      document.querySelector('#modal-content').classList.toggle('active')
+    }
+    const modalBtn = document.querySelector('#modal-btn')
+    modalBtn.addEventListener('click', modalToggle)
+    const modalCancelBtn = document.querySelector('#modal-cancel-btn')
+    modalCancelBtn.addEventListener('click', modalToggle)
+    const modalOverlay = document.querySelector('#modal-content')
+    modalOverlay.addEventListener('click', modalToggle)
+  </script>
+</body>
+</html>
