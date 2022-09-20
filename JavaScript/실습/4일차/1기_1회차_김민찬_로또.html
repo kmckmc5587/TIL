@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>로또</title>
+    <style>
+    .ball {
+    float: left;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 28px;
+    border-radius: 100%;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    font-weight: 500;
+    text-shadow: 0px 0px 3px rgba(73, 57, 0, .8);
+    margin-right: 6px;
+    }
+
+    .ball1 {
+    background: red;
+    }
+
+    .ball2 {
+    background: orange;
+    }
+
+    .ball3 {
+    background: yellow;
+    }
+
+    .ball4 {
+    background: green;
+    }
+
+    .ball5 {
+    background: blue;
+    }
+
+    .ball6 {
+    background: navy;
+    }
+    </style>
+
+</head>
+<body>
+    <h1>로또</h1>
+    <button type="button" onClick="refreshPage()">Click</button>
+    <script>
+        var lotto = [];
+        while (lotto.length < 6) {
+            var num = parseInt(Math.random() * 45 + 1);
+            if (lotto.indexOf(num) == -1) {
+                lotto.push(num);
+            }
+        }
+        lotto.sort((a,b)=>a-b);
+        document.write("<div class='ball ball1'>" + lotto[0] + "</div>");
+        document.write("<div class='ball ball2'>" + lotto[1] + "</div>");
+        document.write("<div class='ball ball3'>" + lotto[2] + "</div>");
+        document.write("<div class='ball ball4'>" + lotto[3] + "</div>");
+        document.write("<div class='ball ball5'>" + lotto[4] + "</div>");
+        document.write("<div class='ball ball6'>" + lotto[5] + "</div>");
+
+        function refreshPage(){
+            window.location.reload();
+        } 
+    </script>
+</body>
+</html>
