@@ -1,4 +1,4 @@
-# JavaScript 1일차
+# JavaScript 실습
 
 ## 🔘 [1일차](./1%EC%9D%BC%EC%B0%A8/)
 
