@@ -1,0 +1,9 @@
+{% extends 'index.html' %}
+
+{% block content %}
+  <form action="/randomresult/" method="GET" class="m-3">
+    <label for="randomlife" class="form-label">이름을 입력하세요.</label>
+    <input type="text" class="form-control" id="randomlife" name="randomlife">
+    <button type="submit" class="btn btn-primary my-3" onclick="location.href='/randomresult/'">전생 확인하기</button>
+  </form>
+{% endblock %}

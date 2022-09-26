@@ -1,0 +1,9 @@
+{% extends 'index.html' %}
+
+{% block content %}
+  {% load mathfilters %}
+  <h1>{{ number1 }} + {{ number2 }} = {{ number1|add:number2 }}</h1>
+  <h1>{{ number1 }} - {{ number2 }} = {{ number1|sub:number2 }}</h1>
+  <h1>{{ number1 }} * {{ number2 }} = {% widthratio number1 1 number2 %}</h1>
+  <h1>{{ number1 }} // {{ number2 }} = {% widthratio number1 number2 1 %}</h1>
+{% endblock %}
