@@ -1,0 +1,8 @@
+<h1>글쓰기</h1>
+
+<form action="{% url 'articles:create' %}" method="POST">
+  {% csrf_token %}
+  {{ article_form.as_p }}
+  <input type="submit" value="글쓰기">
+  <!-- 글쓰기 버튼 -->
+</form>
