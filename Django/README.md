@@ -18,6 +18,7 @@
 * [2일차](./practice/2%EC%9D%BC%EC%B0%A8/)
 * [3일차](./practice/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./practice/4%EC%9D%BC%EC%B0%A8/)
+* [8일차](./practice/8%EC%9D%BC%EC%B0%A8/)
 
 
 ## 실습
@@ -27,3 +28,4 @@
 * [3일차](./%EC%8B%A4%EC%8A%B5/3%EC%9D%BC%EC%B0%A8/)
 * [4일차](./%EC%8B%A4%EC%8A%B5/4%EC%9D%BC%EC%B0%A8/)
 * [7일차](./%EC%8B%A4%EC%8A%B5/7%EC%9D%BC%EC%B0%A8/)
+* [8일차](./%EC%8B%A4%EC%8A%B5/8%EC%9D%BC%EC%B0%A8/)
