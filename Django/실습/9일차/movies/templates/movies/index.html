@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load django_bootstrap5 %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% endblock %}
+
+{% block body %}
+{% for article in movies %}<br><br>
+<h3><a href="{% url 'movies:detail' article.pk %}">{{ article.title }}</a></h3>
+<p>{{ article.created_at }} | {{ article.updated_at }}</p>
+<hr>
+{% endfor %}
+{% endblock %}
