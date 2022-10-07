@@ -10,6 +10,7 @@
 * [Django 5](./django_05.pdf)
 * [Django 6](./django_06.pdf)
 * [Django 7](./django_07.pdf)
+* [Django 8](./django_08.pdf)
 
 
 ## practice
@@ -31,3 +32,4 @@
 * [7일차](./%EC%8B%A4%EC%8A%B5/7%EC%9D%BC%EC%B0%A8/)
 * [8일차](./%EC%8B%A4%EC%8A%B5/8%EC%9D%BC%EC%B0%A8/)
 * [9일차](./%EC%8B%A4%EC%8A%B5/9%EC%9D%BC%EC%B0%A8/)
+* [10일차](./%EC%8B%A4%EC%8A%B5/10%EC%9D%BC%EC%B0%A8/)
