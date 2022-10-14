@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load django_bootstrap5 %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% endblock %}
+
+{% block body %} 
+<h1>게시판</h1><br>
+<img src="{% static 'images/main.png' %}" alt=""><br><br>
+<a href="{% url 'reviews:create' %}">글 쓰기</a>
+{% for review in reviews %}<br><br>
+<h3><a href="{% url 'reviews:detail' article.pk %}">{{ review.title }}</a></h3>
+<p>{{ review.created_at }} | {{ review.updated_at }}</p>
+<hr>
+{% endfor %}
+{% endblock %}
