@@ -15,6 +15,8 @@
 * [Django 10](./django_10.pdf)
 * [Django 11](./django_11.pdf)
 * [Django 12](./django_12.pdf)
+* [Django 13](./django_13.pdf)
+* [Django 14](./django_14.pdf)
 
 
 ## practice
@@ -29,6 +31,8 @@
 * [12일차](./practice/12%EC%9D%BC%EC%B0%A8/)
 * [13일차](./practice/13%EC%9D%BC%EC%B0%A8/)
 * [15일차](./practice/15%EC%9D%BC%EC%B0%A8/)
+* [16일차](./practice/16%EC%9D%BC%EC%B0%A8/)
+* [17일차](./practice/17%EC%9D%BC%EC%B0%A8/)
 
 
 ## 실습
@@ -46,3 +50,5 @@
 * [13일차](./%EC%8B%A4%EC%8A%B5/13%EC%9D%BC%EC%B0%A8/)
 * [14일차](./%EC%8B%A4%EC%8A%B5/14%EC%9D%BC%EC%B0%A8/)
 * [15일차](./%EC%8B%A4%EC%8A%B5/15%EC%9D%BC%EC%B0%A8/)
+* [16일차](./%EC%8B%A4%EC%8A%B5/16%EC%9D%BC%EC%B0%A8/)
+* [17일차](./%EC%8B%A4%EC%8A%B5/17%EC%9D%BC%EC%B0%A8/)
